@@ -1,0 +1,6 @@
+body{
+    overflow-x: hidden;
+}
+.dropdown-item:hover{
+background-color: white;
+}

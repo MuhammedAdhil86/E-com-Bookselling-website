@@ -1,0 +1,20 @@
+.name{gap: 140px;}
+
+body{
+    overflow-x: hidden;
+}
+.company-inpu{
+    width: 400px;
+}
+input{
+    width: 100%;
+}
+select{
+    width: 100%;
+}
+
+.cardly {
+    padding: 50px;
+    background-color: beige;
+    border-radius: 10px;
+}
